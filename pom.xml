@@ -24,11 +24,11 @@
 	<distributionManagement>
            <repository>
 		   <id>nexus</id>
-		   <url>http://13.233.129.132:8081/repository/sparkjava-war-example--Aug-Release/<url>
+		   <url>http://13.233.129.132:8081/repository/sparkjava-war-example--Aug-Release/</url>
 	   </repository>
 	  <snapshotRepository>
 		  <id>nexus</id>
-		   <url>http://13.233.129.132:8081/repository/sparkjava-war-example-14-Aug-snapshot/<url>
+		   <url>http://13.233.129.132:8081/repository/sparkjava-war-example-14-Aug-snapshot/</url>
 	  </snapshotRepository>	
         </distributionManagement>
 
