@@ -24,7 +24,7 @@
 	
 	<properties>
 		<sonar.login>63fd6b2cf4b4bf6fec8640c5017e88c47e90497d</sonar.login>
-	        <sonar.url>http://3.111.170.13:9000</sonar.url>
+	        <sonar.host.url>http://3.111.170.13:9000</sonar.host.url>
 	</properties>
 
 	<build>
