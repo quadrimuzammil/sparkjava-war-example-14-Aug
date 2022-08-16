@@ -26,18 +26,7 @@
 		<sonar.login>63fd6b2cf4b4bf6fec8640c5017e88c47e90497d</sonar.login>
 	        <sonar.url>http://3.111.170.13:9000</sonar.url>
 	</properties>
-<!--
-	<distributionManagement>
-           <repository>
-		   <id>nexus</id>
-		   <url>http://13.233.129.132:8081/repository/sparkjava-war-example--Aug-Release/</url>
-	   </repository>
-	  <snapshotRepository>
-		  <id>nexus</id>
-		   <url>http://13.233.129.132:8081/repository/sparkjava-war-example-14-Aug-snapshot/</url>
-	  </snapshotRepository>	
-        </distributionManagement>
--->
+
 	<build>
 		<plugins>
 			<plugin>
